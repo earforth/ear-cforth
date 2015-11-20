@@ -1,5 +1,5 @@
 # ear-cforth
-a forth Frame made with C. Provided to forth fans to DIY.
+a forth framework made with C. Provided to forth fans to DIY.
 
 I think, this is the best cforth with normal C style.
 
