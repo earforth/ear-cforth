@@ -1,13 +1,18 @@
 # ear-cforth
-a forth struct made in C. Provided to forth fans to fill words.
+a forth mini core made in C. Provided to forth fans to fill words.
 
 I think, this is the best dictionary struct in normal C style.
 
-change MACRO cell  int | long long  for  32|64 bit CPU.
+Provided code() to make code word, and cmdline to make colon word
+
+next is "if else switch for while",and file io
+
 
 
 这是一个用C做的forth结构. 提供给forth爱好者自己填字.
 
 我认为,这是用正常的C风格能做出来的最好的字典结构.
 
-转换宏定义 cell  int | long long  为  32|64位 CPU.
+提供了构造code字的code(),以及命令行编译colon字
+
+下一步是if else switch for while,文件读取
