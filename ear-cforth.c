@@ -11,7 +11,11 @@
 #define	DEBUG2(str1,str2)	
 #endif 
 
-#define	cell	int //long long	// to keep all the sizes same as cell
+#ifdef _WIN64
+#define	cell	long long	//for 64bits
+#else
+#define	cell	long		//for 32bits
+#endif 
 typedef void(*fnp)();//funcion pointer
 
 
