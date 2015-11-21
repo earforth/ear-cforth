@@ -3,6 +3,8 @@ a forth struct made in C. Provided to forth fans to fill words.
 
 I think, this is the best dictionary struct in normal C style.
 
+change MACRO cell  int|long long  for  32|64 bit CPU.
+
 
 这是一个用C做的forth结构. 提供给forth爱好者自己填字.
 
