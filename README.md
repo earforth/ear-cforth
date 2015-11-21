@@ -1,8 +1,9 @@
 # ear-cforth
-a forth framework made with C. Provided to forth fans to DIY.
+a forth struct made in C. Provided to forth fans to fill words.
 
-I think, this is the best cforth with normal C style.
+I think, this is the best dictionary struct in normal C style.
 
 
-这是一个用C做的forth框架. 提供给forth爱好者自己DIY.
-我认为,这是用正常的C语法能做出来的最好的cforth.
+这是一个用C做的forth结构. 提供给forth爱好者自己填字.
+
+我认为,这是用正常的C风格能做出来的最好的字典结构.
