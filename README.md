@@ -1,13 +1,4 @@
 # ear-cforth
-a forth mini core made in C. Provided to forth fans to fill words.
-
-I think, this is the best dictionary struct in normal C style.
-
-Provided code() to make code word, and cmdline to make colon word
-
-next is "if else switch for while",and file io
-
-
 
 这是一个用C做的forth结构. 提供给forth爱好者自己填字.
 
