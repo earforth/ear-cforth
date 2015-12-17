@@ -81,7 +81,6 @@ void compile(char *s)
 	char *w;
 	while (*s!=0)
 	{
-		s=ignore_blankchar(s);
 		w=s;
 		s=split_word(s);
 
@@ -91,6 +90,7 @@ void compile(char *s)
 			init();
 			return;
 		}
+		s=ignore_blankchar(s);
 	}
 	*tmp_lp=0;
 
